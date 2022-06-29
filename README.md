@@ -1,2 +1,2 @@
 # first-udemy-project
-First website designed using HTML, CSS, and Bootstrap
+First class project designed using HTML, CSS, and Bootstrap
